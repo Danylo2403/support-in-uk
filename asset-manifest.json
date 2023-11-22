@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/support-in-uk/static/css/main.7acaea2f.css",
+    "main.js": "/support-in-uk/static/js/main.07d3183d.js",
+    "index.html": "/support-in-uk/index.html",
+    "main.7acaea2f.css.map": "/support-in-uk/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/support-in-uk/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
